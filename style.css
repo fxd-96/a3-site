@@ -15,7 +15,7 @@ header {
 }
 
 .logo {
-    width: 100px; /* Ajusta el tamaño del logo */
+    width: 80px; /* Ajusta el tamaño del logo */
     height: auto;
     display: block;
     margin: 0 auto; /* Centra el logo */
@@ -37,7 +37,7 @@ footer {
 /* Efecto Parallax */
 .parallax {
     background-image: url('https://www.tahniaroberts.com/wp-content/uploads/2021/01/kaleidoscope-black-white-art-project.jpg'); /* Cambia a la URL de la imagen que deseas usar */
-    height: 400px;                          /* Altura de la sección */
+    height: 450px;                          /* Altura de la sección */
     background-attachment: fixed;           /* Fija el fondo para efecto parallax */
     background-position: center;
     background-repeat: no-repeat;
